@@ -1,0 +1,10 @@
+spring :
+  datasource :
+    url : jdbc:mysql://localhost:3306/royalheaven_restaurant
+    username : root
+    password : 2010inama!noPermission
+
+  jpa :
+    hibernate :
+      ddl-auto : update
+

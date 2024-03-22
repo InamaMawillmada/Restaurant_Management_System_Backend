@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02c02f79-20aa-497f-919a-9c364200a712" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/test/UserAuthenticationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/allergens/allergens.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/categories/categories.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/categories/categories.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/categories/categories.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/categories/categories.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/dashboard/dashboard.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/dashboard/dashboard.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/dashboard/dashboard.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/employees/employees.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/home/home.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ingredients/ingredients.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ingredients/ingredients.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ingredients/ingredients.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ingredients/ingredients.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/login-form/login-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/meals/meals.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/meals/meals.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/meals/meals.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/meals/meals.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/nutritions/nutritions.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/nutritions/nutritions.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/nutritions/nutritions.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/nutritions/nutritions.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/orders/orders.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/orders/orders.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/orders/orders.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/orders/orders.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ratings/ratings.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ratings/ratings.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ratings/ratings.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/ratings/ratings.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/recipes/recipes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/register-form/register-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/register-form/register-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/register-form/register-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/register-form/register-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/restaurants/restaurants.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/app/pages/users/users.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Allergens.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Categories.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/FoodDelivery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/HomePageBgImg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Ingredients.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/MockMeal1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/MockMeal2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/MockMeal3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Nutritions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Ratings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Recipes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/Restaurants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/RsPortal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/RsPortalFeature1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/RsPortalFeature2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/allergies/Drug-Allergy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/allergies/asthma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/category1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/category2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/category3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/employees/director.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/employees/head-chef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/employees/manager.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/ingredients/cinemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/ingredients/ginger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/ingredients/tumeric.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/nutrients/lipids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/nutrients/protiens.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/nutrients/vitamins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/recipes/budget-friendly-recipe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/recipes/chilling-recipe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurant Management WebSite/Restaurant_Management_System/src/assets/recipes/easy-recipe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Restaurant_Management_System_Backend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/046afe5d73d05b8c88192aa1bc4f3ac052d1497a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05c1643d6b4372034bad3eeafeb8c588b0b01342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bdce0a1598e0902a0cd421b2c7ad38bc1a49e25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f9207c9e531986117445a4aa0df80d1b071b1a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fb28c30b33b13229ce89004359e18a6fa8eb329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15a14510224897bd0b477c6ead647d0fb161c1b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17935e2c481fcf8f77b8db0c4c978802a40c9a64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1dbf49ded34bda385a6e07347d2b82ac13b163e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2262189e176e8d4c415e383c3bd897973dc5bad1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24f25a41d8247998a0d6ce852afb98c75ca7e447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28ff0d7ffdf1540161cabd8f2ddb83c70ffe2287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2cea5846fca6bd22ea81512bd6f39a843f0dbaa6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/3014b07b251fc17e9169cd2a31ba15ac1f2aca14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/3181ec3832d99dce576d6f5b270e63109021d01a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/320b5b92e114bf3e4467225b9de9943811b72d2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32f6610f85edea8d890d3825a5dc3b130f1c98d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dcc4499964f4787738a4324db994c14e5c041eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3ec779c199c47d5ceda8aa8eda7cb4fac561aa14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/4961bed172001c678cc0c664bab6c5e4bf4019a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49873e81b10aa814191a17ce04e2b2af29f95df7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ebd1ab412580aa37eb35984a7eba0f2f811728e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50612640aafb35fd66d3c627a4aaa1bdab6ba752" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53b9784cd66f8d21e6e52a407fb628379c040d03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d2e900e60bd749fbb6a472947279e521280f869" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6351398364ae2c454d38362f69984328432a5a11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6642f1f2efecb168cc29310b209dee1d33c38a54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e36a5c9b74cd3a79e4919371ab89045955b64d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70be119025c177bad8a3caec7da7ea5e23468316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78ac2cc870d111d60ec32d6d5e19180a836cc72e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78caf740d8afbb3f59593a65c397641384cfd17e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85c9d93bfac24440d676d64c2015ad83f3930213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e40e27957ab40d9ab043e3265d39d6cd9079245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ea908b8af895b6403f1019cee7e7dc2f77ea9fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93bcf3f348d8270060dda8161d74d8a1b7642348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a42dd042dffcae114c0bfb22d2ef7813f7c64a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c739c0bed76fc6dffb3735a7c81e72853d66f0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9ce5acba7a6c215fe4649ce57f8dfc9fa144d3ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dda89d0dc6a90d592de9beab7320e85ca879ee2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5039de0c0a2a1af62011135275eafc7ef8c4c6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a559075605685d6429cccd7558151364a3f03825" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af4facbb1b114accb93538c7b0d6d742519e8623" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b107dfaf80feb645c1f04e80aa7bb370ff496964" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b11466baf9a159fdb305b1ed04889f8c902493c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1b0914b5de2f68f70579e9a1321d946c8c4469a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1c445fbfc604d6092be8392e915d2a9bc4539a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be852bbc56564909e60bb45554edb4a283c46525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0869905a4ec0e4abb0c4b287452093f8002a5d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c52d7a6f064a0a0b97d0cbdb6da7dee4455ebb5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c72f9d15cf25cb7f1cc849637f02d30b40d0250b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7f4d3b347046a21220261d6787d6f03cbae29bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2a5882510ae245d86cc514a648d5c8dfd57a01c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db7686edbb3c0e08786f7b467a9e731a019b2f97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbc3fdc2aa89364268e77906b5caddcfa6a89e28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df051e02f6cb564c11e08cdf6f43d23fc2c6ea77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e268cf481d265744294686247ad390a8f7576ebe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3e967b7d59fda75dceb2caca0849343b3ef46c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e46c04b85cc1ad806f0c8c48fac9cb65e6cc40fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e88ece95a0d85fcc26866decced719a29bf7ffeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e902fe06783cb3d1c1bf2fb03883561e938ff1d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb0b092cf5a6b19921e888ec82e2bbc6ec6ee312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee2c362a7bb857a7409dd9472e9eeeed06893724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0edf3391003f6506557753848d61e9c610a52e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f506aa7898e617d54c45dd34d9598d6cebe4ef13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f599fe1e24b885a39f080080497e52b1f254a1bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8b6fca0cd229c0a7655af1e1aa4ab7b9380d1de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8ccdf1b2431b976164e8bcb52555fd9d4c08675" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffa8dfd1a80a7bb2e27e21e5efde9fe6c05315d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/046afe5d73d05b8c88192aa1bc4f3ac052d1497a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05c1643d6b4372034bad3eeafeb8c588b0b01342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0bdce0a1598e0902a0cd421b2c7ad38bc1a49e25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0f9207c9e531986117445a4aa0df80d1b071b1a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0fb28c30b33b13229ce89004359e18a6fa8eb329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/15a14510224897bd0b477c6ead647d0fb161c1b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/7/17935e2c481fcf8f77b8db0c4c978802a40c9a64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/d/1dbf49ded34bda385a6e07347d2b82ac13b163e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/2/2262189e176e8d4c415e383c3bd897973dc5bad1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/24f25a41d8247998a0d6ce852afb98c75ca7e447" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/8/28ff0d7ffdf1540161cabd8f2ddb83c70ffe2287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2cea5846fca6bd22ea81512bd6f39a843f0dbaa6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/0/3014b07b251fc17e9169cd2a31ba15ac1f2aca14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/1/3181ec3832d99dce576d6f5b270e63109021d01a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/2/320b5b92e114bf3e4467225b9de9943811b72d2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/2/32f6610f85edea8d890d3825a5dc3b130f1c98d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/d/3dcc4499964f4787738a4324db994c14e5c041eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/e/3ec779c199c47d5ceda8aa8eda7cb4fac561aa14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/4961bed172001c678cc0c664bab6c5e4bf4019a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/49873e81b10aa814191a17ce04e2b2af29f95df7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4ebd1ab412580aa37eb35984a7eba0f2f811728e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/50612640aafb35fd66d3c627a4aaa1bdab6ba752" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/3/53b9784cd66f8d21e6e52a407fb628379c040d03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5d2e900e60bd749fbb6a472947279e521280f869" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/6351398364ae2c454d38362f69984328432a5a11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/6642f1f2efecb168cc29310b209dee1d33c38a54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/e/6e36a5c9b74cd3a79e4919371ab89045955b64d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/0/70be119025c177bad8a3caec7da7ea5e23468316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/78ac2cc870d111d60ec32d6d5e19180a836cc72e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/78caf740d8afbb3f59593a65c397641384cfd17e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/85c9d93bfac24440d676d64c2015ad83f3930213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e40e27957ab40d9ab043e3265d39d6cd9079245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ea908b8af895b6403f1019cee7e7dc2f77ea9fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/3/93bcf3f348d8270060dda8161d74d8a1b7642348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a42dd042dffcae114c0bfb22d2ef7813f7c64a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/c/9c739c0bed76fc6dffb3735a7c81e72853d66f0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/c/9ce5acba7a6c215fe4649ce57f8dfc9fa144d3ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9dda89d0dc6a90d592de9beab7320e85ca879ee2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5039de0c0a2a1af62011135275eafc7ef8c4c6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a559075605685d6429cccd7558151364a3f03825" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/af4facbb1b114accb93538c7b0d6d742519e8623" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b107dfaf80feb645c1f04e80aa7bb370ff496964" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b11466baf9a159fdb305b1ed04889f8c902493c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b1b0914b5de2f68f70579e9a1321d946c8c4469a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/1/b1c445fbfc604d6092be8392e915d2a9bc4539a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/e/be852bbc56564909e60bb45554edb4a283c46525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c0869905a4ec0e4abb0c4b287452093f8002a5d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c52d7a6f064a0a0b97d0cbdb6da7dee4455ebb5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/7/c72f9d15cf25cb7f1cc849637f02d30b40d0250b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/7/c7f4d3b347046a21220261d6787d6f03cbae29bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/2/d2a5882510ae245d86cc514a648d5c8dfd57a01c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db7686edbb3c0e08786f7b467a9e731a019b2f97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbc3fdc2aa89364268e77906b5caddcfa6a89e28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/df051e02f6cb564c11e08cdf6f43d23fc2c6ea77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/2/e268cf481d265744294686247ad390a8f7576ebe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e3e967b7d59fda75dceb2caca0849343b3ef46c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/4/e46c04b85cc1ad806f0c8c48fac9cb65e6cc40fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/8/e88ece95a0d85fcc26866decced719a29bf7ffeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/9/e902fe06783cb3d1c1bf2fb03883561e938ff1d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/b/eb0b092cf5a6b19921e888ec82e2bbc6ec6ee312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/ee2c362a7bb857a7409dd9472e9eeeed06893724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f0edf3391003f6506557753848d61e9c610a52e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/5/f506aa7898e617d54c45dd34d9598d6cebe4ef13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/5/f599fe1e24b885a39f080080497e52b1f254a1bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f8b6fca0cd229c0a7655af1e1aa4ab7b9380d1de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/8/f8ccdf1b2431b976164e8bcb52555fd9d4c08675" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ffa8dfd1a80a7bb2e27e21e5efde9fe6c05315d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/controller/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/controller/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/service/serviceImpl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/royalheaven/restaurant/service/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/AllergenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/AllergenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/IngredientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/IngredientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/MealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/MealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/NutritionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/NutritionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RecipeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RecipeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RestaurantController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/RestaurantController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/AllergenEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/AllergenEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/CategoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/CategoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/EmployeeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/EmployeeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/IngredientEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/IngredientEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/MealEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/MealEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/NutritionEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/NutritionEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/OrderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/OrderEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RateEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RateEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RecipeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RecipeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RestaurantEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/RestaurantEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dao/UserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Allergen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Allergen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Ingredient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Ingredient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Meal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Nutrition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Nutrition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Rate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Rate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Recipe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Recipe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Restaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/Restaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/dto/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/AllergenRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/AllergenRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/EmployeeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/IngredientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/IngredientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/MealRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/MealRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/NutritionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/NutritionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RateRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RateRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RecipeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RecipeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RestaurantRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/RestaurantRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/AllergenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/AllergenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/IngredientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/IngredientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/MealService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/MealService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/NutritionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/NutritionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RecipeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RecipeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RestaurantService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/RestaurantService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/AllergenServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/AllergenServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/EmployeeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/EmployeeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/IngredientServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/IngredientServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/MealServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/MealServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/NutritionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/NutritionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RateServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RateServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RecipeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RecipeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RestaurantServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/RestaurantServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/royalheaven/restaurant/service/serviceImpl/UserServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2e2V1VzeNkFOHceFteHH30uqOSO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02c02f79-20aa-497f-919a-9c364200a712" name="Changes" comment="" />
+      <created>1711102457498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711102457498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
